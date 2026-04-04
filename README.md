@@ -1,2 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Moringa Viva CR</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 
+<body style="font-family: Arial, sans-serif; background:#f8f6f1; color:#2f3a2f; margin:0; line-height:1.6;">
+
+  <header style="padding:24px 20px; border-bottom:1px solid #ddd; background:#f8f6f1;">
+    <h1 style="margin:0; font-size:32px;">Moringa Viva CR 🇨🇷</h1>
+    <p style="margin:8px 0 0 0; font-size:18px;">Naturaleza que se siente en tu piel</p>
+  </header>
+
+  <section style="padding:40px 20px; max-width:1100px; margin:0 auto;">
+    <div style="display:flex; flex-wrap:wrap; gap:30px; align-items:center;">
+      <div style="flex:1; min-width:280px;">
+        <h2 style="font-size:34px; margin-top:0;">Cuidado diario con moringa</h2>
+        <p style="font-size:18px;">Para una piel saludable, natural y en equilibrio.</p>
+        <p style="font-size:16px;">Hecho en Costa Rica 🇨🇷</p>
+
+        <div style="margin-top:20px;">
+          <a href="https://wa.me/50672647175" style="display:inline-block; margin-right:12px; padding:12px 18px; background:#3f6b45; color:white; text-decoration:none; border-radius:8px;">📲 WhatsApp</a>
+          <a href="https://instagram.com/moringavivacr" style="display:inline-block; padding:12px 18px; border:1px solid #3f6b45; color:#3f6b45; text-decoration:none; border-radius:8px;">📸 Instagram</a>
+        </div>
+      </div>
+
+      <div style="flex:1; min-width:280px;">
+        <img src="calma-hero.jpg" alt="Calma Verde" style="width:100%; max-width:520px; border-radius:16px; display:block; margin:auto;">
+      </div>
+    </div>
+  </section>
+
+  <section style="padding:20px; max-width:1100px; margin:0 auto;">
+    <div style="background:#f1ede4; padding:24px; border-radius:16px;">
+      <h3 style="margin-top:0; font-size:28px;">Nuestra esencia</h3>
+      <p>
+        En Moringa Viva CR elaboramos jabones artesanales con moringa y una estética natural premium.
+        Cada pieza está pensada para brindar un cuidado suave, fresco y equilibrado para tu piel.
+      </p>
+    </div>
+  </section>
+
+  <section style="padding:40px 20px; max-width:1100px; margin:0 auto;">
+    <h3 style="font-size:30px; margin-top:0;">Productos</h3>
+
+    <div style="display:flex; flex-wrap:wrap; gap:24px;">
+
+      <div style="flex:1; min-width:280px; background:white; border-radius:16px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+        <img src="calma-pack.jpg" alt="Calma Verde con empaque" style="width:100%; height:280px; object-fit:cover;">
+        <div style="padding:20px;">
+          <h4 style="margin-top:0; font-size:24px;">🌿 Calma Verde</h4>
+          <p style="font-weight:bold; color:#3f6b45;">₡4,500</p>
+          <p>Hidratación suave para pieles delicadas. Ideal para uso diario.</p>
+        </div>
+      </div>
+
+      <div style="flex:1; min-width:280px; background:white; border-radius:16px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+        <img src="vital-pack.jpg" alt="Vital Skin con empaque" style="width:100%; height:280px; object-fit:cover;">
+        <div style="padding:20px;">
+          <h4 style="margin-top:0; font-size:24px;">✨ Vital Skin</h4>
+          <p style="font-weight:bold; color:#3f6b45;">₡4,500</p>
+          <p>Nutrición e hidratación para piel seca o madura, con un cuidado natural diario.</p>
+        </div>
+      </div>
+
+      <div style="flex:1; min-width:280px; background:white; border-radius:16px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+        <img src="detox-pack.jpg" alt="Moringa Detox con empaque" style="width:100%; height:280px; object-fit:cover;">
+        <div style="padding:20px;">
+          <h4 style="margin-top:0; font-size:24px;">🧼 Moringa Detox</h4>
+          <p style="font-weight:bold; color:#3f6b45;">₡4,500</p>
+          <p>Limpieza profunda para ayudar a mantener la piel fresca, limpia y equilibrada.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section style="padding:40px 20px; max-width:1100px; margin:0 auto;">
+    <h3 style="font-size:30px; margin-top:0;">Galería</h3>
+
+    <div style="display:flex; flex-wrap:wrap; gap:20px;">
+      <img src="calma-hero.jpg" alt="Calma Verde natural" style="flex:1; min-width:280px; max-width:32%; border-radius:16px;">
+      <img src="detox-product.jpg" alt="Moringa Detox" style="flex:1; min-width:280px; max-width:32%; border-radius:16px;">
+      <img src="vital-product.jpg" alt="Vital Skin" style="flex:1; min-width:280px; max-width:32%; border-radius:16px;">
+    </div>
+  </section>
+
+  <section style="padding:40px 20px; max-width:1100px; margin:0 auto;">
+    <div style="background:#3f6b45; color:white; padding:30px; border-radius:16px;">
+      <h3 style="margin-top:0; font-size:28px;">Contacto</h3>
+      <p>Haz tu pedido o solicita información por WhatsApp o Instagram.</p>
+      <p><strong>WhatsApp:</strong> 7264-7175</p>
+      <p><strong>Instagram:</strong> @moringavivacr</p>
+
+      <div style="margin-top:20px;">
+        <a href="https://wa.me/50672647175" style="display:inline-block; margin-right:12px; padding:12px 18px; background:white; color:#3f6b45; text-decoration:none; border-radius:8px;">Escribir por WhatsApp</a>
+        <a href="https://instagram.com/moringavivacr" style="display:inline-block; padding:12px 18px; border:1px solid white; color:white; text-decoration:none; border-radius:8px;">Ver Instagram</a>
+      </div>
+    </div>
+  </section>
+
+  <footer style="padding:24px 20px; border-top:1px solid #ddd; text-align:center; color:#5b655b;">
+    <p style="margin:0;"><strong>Moringa Viva CR</strong></p>
+    <p style="margin:8px 0 0 0;">Naturaleza que se siente en tu piel</p>
+  </footer>
+
+</body>
+</html>
      

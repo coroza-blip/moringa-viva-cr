@@ -201,13 +201,13 @@ function comprar(producto) {
   let mensaje = "";
 
   if (producto === "Consulta general") {
-    mensaje = `¡Hola! 💚 Me gustaría recibir más información sobre los jabones de moringa.
+    mensaje = `¡Hola! Me gustaría recibir más información sobre los jabones de moringa.
 
 ¿Me podrías ayudar? ✨`;
   } else {
-    mensaje = `¡Hola! 💚 Me interesa el jabón ${producto}.
+    mensaje = `¡Hola! Me interesa el jabón ${producto}.
 
-¿Lo tienes disponible hoy? Si hay, quiero pedirlo ✨`;
+¿Lo tienes disponible hoy? Si hay, quiero pedirlo `;
   }
 
   const url = "https://wa.me/50672647175?text=" + encodeURIComponent(mensaje);
@@ -218,23 +218,23 @@ function comprarCombo(combo) {
   let mensaje = "";
 
   if (combo === "Combo Esencial") {
-    mensaje = `¡Hola! 💚 Me interesa el Combo Esencial.
+    mensaje = `¡Hola!  Me interesa el Combo Esencial.
 
 Incluye 1 jabón a elección + bolsita reutilizable.
 
-¿Lo tienes disponible? ✨`;
+¿Lo tienes disponible? `;
   } else if (combo === "Combo Regalo") {
-    mensaje = `¡Hola! 💚 Me interesa el Combo Regalo.
+    mensaje = `¡Hola! Me interesa el Combo Regalo.
 
 Incluye 2 jabones a elección + bolsita reutilizable.
 
-¿Lo tienes disponible? ✨`;
+¿Lo tienes disponible? `;
   } else if (combo === "Combo Premium") {
     mensaje = `¡Hola! 💚 Me interesa el Combo Premium.
 
 Incluye 3 jabones a elección + bolsita reutilizable.
 
-¿Lo tienes disponible? ✨`;
+¿Lo tienes disponible? `;
   }
 
   const url = "https://wa.me/50672647175?text=" + encodeURIComponent(mensaje);
